@@ -4,13 +4,31 @@ entries:
   - annotations:
       artifacthub.io/changes: |-
         - kind: changed
+          description: Bumped version from 0.0.4
+      artifacthub.io/links: |
+        - name: Caddy home
+          url: https://github.com/caddyserver/caddy
+    apiVersion: v2
+    appVersion: 2.11.2
+    created: "2026-04-27T20:33:27.890389+05:30"
+    description: 'The Caddy web server is an extensible, cross-platform, open-source
+      web server written in Go. '
+    digest: 9712fd2ab77a59df69f36de84675cc659876178073e4471a8dc3c50ce752040a
+    name: caddy
+    type: application
+    urls:
+    - caddy-0.0.4.tgz
+    version: 0.0.4
+  - annotations:
+      artifacthub.io/changes: |-
+        - kind: changed
           description: Bumped version from 0.0.3
       artifacthub.io/links: |
         - name: Caddy home
           url: https://github.com/caddyserver/caddy
     apiVersion: v2
     appVersion: 2.11.2
-    created: "2026-04-27T20:18:39.352513+05:30"
+    created: "2026-04-27T20:33:27.889742+05:30"
     description: 'The Caddy web server is an extensible, cross-platform, open-source
       web server written in Go. '
     digest: fd60377a1ee5e8a0fda46acaa11dd9191447a12fec2c4182d46a629c4d59ed8f
@@ -28,7 +46,7 @@ entries:
           url: https://github.com/caddyserver/caddy
     apiVersion: v2
     appVersion: 2.11.2
-    created: "2026-04-27T20:18:39.352072+05:30"
+    created: "2026-04-27T20:33:27.889159+05:30"
     description: 'The Caddy web server is an extensible, cross-platform, open-source
       web server written in Go. '
     digest: 15ce989acc93a2cfc1a79aab03e84862701c89cacff3e564dfe31b97ef00049c
@@ -44,7 +62,7 @@ entries:
           url: https://github.com/caddyserver/caddy
     apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-04-27T20:18:39.350875+05:30"
+    created: "2026-04-27T20:33:27.887972+05:30"
     description: 'The Caddy web server is an extensible, cross-platform, open-source
       web server written in Go. '
     digest: b13d378890ac76950e9d2d07603da63cbd3f94ce7607adb1dfe24e8f6c2e91bb
@@ -53,4 +71,4 @@ entries:
     urls:
     - caddy-0.0.1.tgz
     version: 0.0.1
-generated: "2026-04-27T20:18:39.349691+05:30"
+generated: "2026-04-27T20:33:27.886732+05:30"
