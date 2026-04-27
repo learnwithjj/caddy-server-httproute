@@ -2,16 +2,18 @@ apiVersion: v1
 entries:
   caddy:
   - annotations:
-      artifacthub.io/changes: "- kind: changed\n  description: Bumped version "
+      artifacthub.io/changes: |-
+        - kind: changed
+          description: Bumped version from 0.0.1
       artifacthub.io/links: |
         - name: Caddy home
           url: https://github.com/caddyserver/caddy
     apiVersion: v2
     appVersion: 2.11.2
-    created: "2026-04-27T12:13:50.928899+05:30"
+    created: "2026-04-27T12:21:30.245201+05:30"
     description: 'The Caddy web server is an extensible, cross-platform, open-source
       web server written in Go. '
-    digest: aa62500c35a1e1259c3382dee979116221054257b6cf86d0fa4aa51760373d8b
+    digest: 528a45c2ae77d58608a618a26c004a55bd2a40b96f96da531004d6dee77fed60
     name: caddy
     type: application
     urls:
@@ -24,7 +26,7 @@ entries:
           url: https://github.com/caddyserver/caddy
     apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-04-27T12:13:50.92796+05:30"
+    created: "2026-04-27T12:21:30.244734+05:30"
     description: 'The Caddy web server is an extensible, cross-platform, open-source
       web server written in Go. '
     digest: b13d378890ac76950e9d2d07603da63cbd3f94ce7607adb1dfe24e8f6c2e91bb
@@ -33,4 +35,4 @@ entries:
     urls:
     - caddy-0.0.1.tgz
     version: 0.0.1
-generated: "2026-04-27T12:13:50.926559+05:30"
+generated: "2026-04-27T12:21:30.243279+05:30"
